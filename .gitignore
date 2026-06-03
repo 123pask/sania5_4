@@ -1,7 +1,4 @@
 .vs/
+sania5_4/bin/
 sania5_4/obj/
 *.user
-sania5_4/bin/Debug/net10.0-win/*.exe
-sania5_4/bin/Debug/net10.0-win/*.dll
-sania5_4/bin/Debug/net10.0-win/*.pdb
-sania5_4/bin/Debug/net10.0-win/*.json
